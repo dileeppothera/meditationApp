@@ -1,6 +1,5 @@
-# relief
-
-A new Flutter project.
+# MeditationUI-AudioPlayer app
+This is a flutter project for audio player for mobile but with a meditation kind of user interface.
 
 ## Getting Started
 

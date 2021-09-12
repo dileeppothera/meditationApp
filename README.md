@@ -3,15 +3,4 @@ This is a flutter project for audio player for mobile but with a meditation kind
 The UI is inspired from a dribble project of Irmak İşsever.
 https://dribbble.com/shots/15817737-Countdown-DailyUI-014
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1631459637](https://user-images.githubusercontent.com/30078303/132993209-63eb5846-2368-4428-b91a-3cdd32f77be4.png)

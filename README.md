@@ -3,4 +3,10 @@ This is a flutter project for audio player for mobile but with a meditation kind
 The UI is inspired from a dribble project of Irmak İşsever.
 https://dribbble.com/shots/15817737-Countdown-DailyUI-014
 
+Covered Concepts
+
+*  Animations
+*  AudioPlayer
+*  Canvas for custom drawing
+
 <img src="https://user-images.githubusercontent.com/30078303/132993209-63eb5846-2368-4428-b91a-3cdd32f77be4.png" width="200" height="400">

@@ -1,5 +1,7 @@
 # MeditationUI-AudioPlayer app
 This is a flutter project for audio player for mobile but with a meditation kind of user interface.
+The UI is inspired from a dribble project of Irmak İşsever.
+https://dribbble.com/shots/15817737-Countdown-DailyUI-014
 
 ## Getting Started
 

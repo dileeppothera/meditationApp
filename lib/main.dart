@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:relief/home.dart';
-import 'package:relief/music_player.dart';
 
 main() {
   runApp(MyApp());
